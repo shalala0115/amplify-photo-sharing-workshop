@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "Postagram",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-postagram-dev-143426-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/f4b9048b7d2b54f746aed07a0c07f34c706eaa9a"
+}
